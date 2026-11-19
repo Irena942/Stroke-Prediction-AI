@@ -67,8 +67,5 @@ These evaluation methods helped assess how effectively the model classified stro
 - `README.md` – Provides information about the project.
 - `requirements.txt` – Lists the Python libraries required to run the project.
 
-## 9. Conclusion
-This project demonstrates how machine learning can be applied to healthcare data to classify stroke and non-stroke cases. It also highlights the importance of data cleaning, preparation, model training, testing and evaluation when developing an AI solution.
-
 ## 10. Disclaimer
 This project is for educational purposes only. The model is not intended to replace professional medical advice or diagnosis.
